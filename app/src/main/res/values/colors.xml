@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B0C4DE</color>
+    <color name="colorPrimaryDark">#778899</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="navigator_barcolor">#2F4F4F</color>
+    <color name="activity">#ADD8E6</color>
+    <color name="black">#000000</color>
+    <color name="background">#F8F8FF</color>
+</resources>
